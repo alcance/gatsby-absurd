@@ -6,7 +6,7 @@
   "author": "Ajay NS <ajay.ns@outlook.com>",
   "dependencies": {
     "@svgr/webpack": "^4.1.0",
-    "gatsby": "2.13.50",
+    "gatsby": "4.25.7",
     "gatsby-cli": "2.7.26",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-google-fonts": "^0.0.4",
